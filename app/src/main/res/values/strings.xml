@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MyWeibo</string>
+    <string name="app_name">KuangZhihu</string>
+    <string name="share_this_news">分享这个新闻</string>
 </resources>
